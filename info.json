@@ -1,0 +1,354 @@
+{
+    "header": ,
+    "resources": [
+        {
+            "url": "http://wdc6.cn/dh/",
+            "path": "index.html",
+            "saved": true,
+            "size": 10744,
+            "children": [
+                {
+                    "url": "http://wdc6.cn/dh/qq.jpg",
+                    "path": "img/qq.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://wdc6.cn/dh/images/1.png",
+                    "path": "img/1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://wdc6.cn/dh/images/6.png",
+                    "path": "img/6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://wdc6.cn/dh/images/7.png",
+                    "path": "img/7.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://wdc6.cn/dh/images/12.png",
+                    "path": "img/12.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://wdc6.cn/dh/images/4.png",
+                    "path": "img/4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://wdc6.cn/dh/images/5.png",
+                    "path": "img/5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pic.rmb.bdstatic.com/bjh/c26bc63cb98c9517e96b87b64c708d3f.png",
+                    "path": "img/c26bc63cb98c9517e96b87b64c708d3f.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pic.rmb.bdstatic.com/bjh/255cf80f3d92fe3606b69433e6bfd789.png",
+                    "path": "img/255cf80f3d92fe3606b69433e6bfd789.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pic.rmb.bdstatic.com/bjh/8ba7facaea61328f8d0c8c5b4207885c.png",
+                    "path": "img/8ba7facaea61328f8d0c8c5b4207885c.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pic.rmb.bdstatic.com/bjh/45f69c7628058296539633e61dabad54.png",
+                    "path": "img/45f69c7628058296539633e61dabad54.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pic.rmb.bdstatic.com/bjh/d6a9ac944ac4ca66c6d4d596a59d8ddd.png",
+                    "path": "img/d6a9ac944ac4ca66c6d4d596a59d8ddd.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pic.rmb.bdstatic.com/bjh/d938d503f08ef623994baafec17250af.png",
+                    "path": "img/d938d503f08ef623994baafec17250af.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pic.rmb.bdstatic.com/bjh/af4b1db0c25cb1b70ef7f3735def6ad7.png",
+                    "path": "img/af4b1db0c25cb1b70ef7f3735def6ad7.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://file.market.xiaomi.com/thumbnail/PNG/l114/AppStore/003021bee10234e20865a152635eb1a75bed7307e",
+                    "path": "img/003021bee10234e20865a152635eb1a75bed7307e.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://wdc6.cn/dh/music/js/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 85629,
+                    "children": []
+                },
+                {
+                    "url": "http://wdc6.cn/dh/music/js/jquery.marquee.min.js",
+                    "path": "js/jquery.marquee.min.js",
+                    "saved": true,
+                    "size": 5657,
+                    "children": []
+                },
+                {
+                    "url": "http://wdc6.cn/dh/music/js/player.js",
+                    "path": "js/player.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "http://wdc6.cn/dh/js/Mouse.js",
+                    "path": "js/Mouse.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://wdc6.cn/dh/css/m.1fa67fb2.css",
+                    "path": "css/m.1fa67fb2.css",
+                    "saved": true,
+                    "size": 6108,
+                    "children": [
+                        {
+                            "url": "http://wdc6.cn/dh/images/baiyang.9671921a.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/jinniu.0344f364.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/shuangzi.b653cb1e.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/juxie.4b584c57.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/shizi.fa459ceb.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/chunv.36494d9b.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/tiancheng.fcc3ace2.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/tianxie.7748b67d.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/sheshou.13905cc2.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/mojie.ae57606b.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/shuiping.1e58f191.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/shuangyu.c03c5013.jpg",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://wdc6.cn/dh/css/chunk-b601d230.77c44edd.css",
+                    "path": "css/chunk-b601d230.77c44edd.css",
+                    "saved": true,
+                    "size": 45527,
+                    "children": [
+                        {
+                            "url": "http://wdc6.cn/dh/images/logo_icon6.101abcd6.png",
+                            "path": "img/logo_icon6.101abcd6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/default_header_bg.4468f352.png",
+                            "path": "img/default_header_bg.4468f352.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/default_header.123a3670_6f692df92b80430ba0c2d2a23489a9b1.png",
+                            "path": "img/default_header.123a3670_6f692df92b80430ba0c2d2a23489a9b1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/dt_icon.2b85444b.png",
+                            "path": "img/dt_icon.2b85444b.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/contact_empty_1.ccb1a5ae.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/msg_empty_1.e85d4b36.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/sliders_h2.0705efce.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/instap_logo.c7bf1bfd.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/nav_qr_icon.71d2969a.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/msg_empty_2.8c1d2635.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/images/contact_empty_2.0bb89eff.png",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://wdc6.cn/dh/music/css/player.css",
+                    "path": "css/player.css",
+                    "saved": true,
+                    "size": 16850,
+                    "children": [
+                        {
+                            "url": "http://wdc6.cn/dh/music/img/audio_sprite.png",
+                            "path": "img/audio_sprite.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/music/img/liebiao.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://wdc6.cn/dh/music/img/2.png",
+                            "path": "img/2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://wdc6.cn/dh/cssimages/logo.png",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "wdc6-cn-qkhk959",
+    "info": {
+        "remark": [],
+        "title": "广西王大锤  | 一个热爱各种玩的咸鱼 ",
+        "domain": "wdc6.cn",
+        "origin": "http://wdc6.cn",
+        "ip": "154.204.178.53",
+        "main": "index.html",
+        "url": "http://wdc6.cn/dh/",
+        "totalSize": "171 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://wdc6.cn/dh/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://wdc6.cn/dh/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 18 Aug 2022 14:43:31 GMT",
+                "content-type": "text/html",
+                "content-length": "11272",
+                "last-modified": "Fri, 03 Jun 2022 05:55:39 GMT",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "set-cookie": [
+                    "X_CACHE_KEY=74da9e19b8613fd444dbe828b96b0625; path=/; Expires=Fri, 31-Dec-9999 23:59:59 GMT"
+                ],
+                "etag": "\"6299a25b-2c08\"",
+                "strict-transport-security": "max-age=31536000",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-08-18T14:43:30.747Z",
+            "end": "2022-08-18T14:43:39.187Z"
+        }
+    },
+    "options": {
+        "url": "http://wdc6.cn/dh/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://wdc6.cn/dh/wx/",
+            "path": "index.html",
+            "saved": true,
+            "size": 1947,
+            "children": [
+                {
+                    "url": "https://wdc6.cn/dh/wx/static/picture/safety-icon.png",
+                    "path": "img/safety-icon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://wdc6.cn/dh/wx/static/picture/logo2.png",
+                    "path": "img/logo2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://wdc6.cn/dh/wx/static/picture/2022-04-20-755.png",
+                    "path": "img/2022-04-20-755.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://wdc6.cn/dh/wx/static/js/wx.js",
+                    "path": "js/wx.js",
+                    "saved": true,
+                    "size": 89501,
+                    "children": []
+                },
+                {
+                    "url": "https://hm.yunlan.ltd/common/wx/css/style.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://wdc6.cn/dh/wx/static/css/chunk-vendors.common.css",
+                    "path": "css/chunk-vendors.common.css",
+                    "saved": true,
+                    "size": 5938,
+                    "children": []
+                },
+                {
+                    "url": "https://wdc6.cn/dh/wx/static/css/wx.css",
+                    "path": "css/wx.css",
+                    "saved": true,
+                    "size": 1671,
+                    "children": []
+                },
+                {
+                    "url": "http://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico",
+                    "path": "NTI4MWU5.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://res.wx.qq.com/a/wx_fed/assets/res/MjliNWVm.svg",
+                    "path": "img/MjliNWVm.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png",
+                    "path": "img/OTE0YTAw.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "wdc6-cn-aibonj6",
+    "info": {
+        "remark": [],
+        "title": "广西王大锤，dcge.cn广西第一深情",
+        "domain": "wdc6.cn",
+        "origin": "https://wdc6.cn",
+        "ip": "154.204.178.53",
+        "main": "index.html",
+        "url": "https://wdc6.cn/dh/wx/",
+        "totalSize": "99.1 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://wdc6.cn/dh/wx/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://wdc6.cn/dh/wx/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 18 Aug 2022 15:34:40 GMT",
+                "content-type": "text/html",
+                "content-length": "2349",
+                "last-modified": "Wed, 20 Apr 2022 03:50:26 GMT",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "set-cookie": [
+                    "X_CACHE_KEY=eac66d4f00336697067b06f4eb96b48d; path=/; Expires=Fri, 31-Dec-9999 23:59:59 GMT"
+                ],
+                "etag": "\"625f8302-92d\"",
+                "strict-transport-security": "max-age=31536000",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-08-18T15:34:40.045Z",
+            "end": "2022-08-18T15:34:41.560Z"
+        }
+    },
+    "options": {
+        "url": "https://wdc6.cn/dh/wx/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
